@@ -14,4 +14,7 @@ data5 = "lucknow";
 Var abcd1 =100;
 
 
+var name = "Shyam"
+
 Var newVariable;
+
